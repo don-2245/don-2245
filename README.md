@@ -33,6 +33,20 @@ $\color{#ffc403}{DNI}$
 </p>
 
 <p align="center">
+  $\color{#ffc403}{INT}$
+</p>
+
+<p align="center">
+  $\color{#ffc403}{Friends,}$ $\color{#ffc403}{same}$ $\color{#ffc403}{fandoms}$ $\color{#ffc403}{as}$ $\color{#ffc403}{me,}$ $\color{#ffc403}{}$ $\color{#ffc403}{people}$ $\color{#ffc403}{who}$ $\color{#ffc403}{want}$ $\color{#ffc403}{to}$ $\color{#ffc403}{be}$ $\color{#ffc403}{friends}$ $\color{#ffc403}{with}$ $\color{#ffc403}{me!!}$
+</p>
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=313t7s3r6vpv75c4ggustd263pka&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=313t7s3r6vpv75c4ggustd263pka&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=false">
+  </a>
+</p>
+
+<p align="center">
 $\color{#ffc403}{ᰔ ⊹˚₊}$ <a href="https://don-2245.atabook.org">ATA</a> $\color{#ffc403}{♡}$ <a href="https://don2245.straw.page">STRAWPAGE</a> $\color{#ffc403}{♡}$ <a href="https://rentry.co/7o9y4chw">RENTRY</a> $\color{#ffc403}{♡}$ <a href="https://pronouns.cc/@don_2245">PRNS.CC</a> $\color{#ffc403}{/}$ <a href="https://en.pronouns.page/@don_2245">PRNS PAGE</a> $\color{#ffc403}{♡}$ <a href="https://guns.lol/don_2245">GUNS.LOL</a> $\color{#ffc403}{₊˚⊹ ᰔ}$
 </p>
 
