@@ -17,7 +17,46 @@ $\color{#ffc403}{Bmf!}$ $\color{#ffc403}{I'm}$ $\color{#ffc403}{super}$ $\color{
 </p>
 
 <p align="center">
-$\color{#ffc403}{DNI}$
+  $\color{#ff8e1c}{↓ BYI ↓}$ 
+</p>
+
+<p align="center">
+$\color{#293347}{for}$ $\color{#293347}{pt..}$ 
+</p>
+
+<p align="center">
+  $\color{#ffc403}{I'm}$ $\color{#ffc403}{very}$ $\color{#ffc403}{anxious}$ $\color{#ffc403}{and}$ $\color{#ffc403}{I}$ $\color{#ffc403}{overthink}$ $\color{#ffc403}{a lot}$ $\color{#ffc403}{(even}$ $\color{#ffc403}{if}$ $\color{#ffc403}{I}$ $\color{#ffc403}{don't}$ $\color{#ffc403}{show}$ $\color{#ffc403}{it}$ $\color{#ffc403}{that}$ $\color{#ffc403}{much),}$ $\color{#ffc403}{so}$ $\color{#ffc403}{please}$ $\color{#ffc403}{bear}$ $\color{#ffc403}{with}$ $\color{#ffc403}{me...}$ 
+  </p>
+  
+  <p align="center">
+    $\color{#ffc403}{I}$ $\color{#ffc403}{dislike}$ $\color{#ffc403}{being}$ $\color{#ffc403}{alone /}$ $\color{#ffc403}{left}$ $\color{#ffc403}{out.}$ $\color{#ffc403}{It}$ $\color{#ffc403}{makes}$ $\color{#ffc403}{me}$ $\color{#ffc403}{extremely}$ $\color{#ffc403}{disstressed}$ $\color{#ffc403}{and}$ $\color{#ffc403}{restless.}$
+  </p>
+
+  <p align="center">
+  </p>
+
+<p align="center">
+$\color{#ffc403}{I}$ $\color{#ffc403}{might}$ $\color{#ffc403}{unfriend /}$ $\color{#ffc403}{block}$ $\color{#ffc403}{you}$ $\color{#ffc403}{because}$ $\color{#ffc403}{I'm}$ $\color{#ffc403}{scared}$ $\color{#ffc403}{of}$ $\color{#ffc403}{you...}$ $\color{#ffc403}{Sorry}$ $\color{#ffc403}{for}$ $\color{#ffc403}{that...}$
+</p>
+
+<p align="center">
+  $\color{#ffc403}{I'm}$ $\color{#ffc403}{almost}$ $\color{#ffc403}{always}$ $\color{#ffc403}{offtab,}$ $\color{#ffc403}{so}$ $\color{#ffc403}{w2i.}$
+</p>
+
+<p align="center">
+  $\color{#ffc403}{You}$ $\color{#ffc403}{can}$ $\color{#ffc403}{ask}$ $\color{#ffc403}{for}$ $\color{#ffc403}{my}$ $\color{#ffc403}{discord.}$ $\color{#ffc403}{Idm!!}$
+</p>
+
+<p align="center">
+  $\color{#ffc403}{I}$ $\color{#ffc403}{don't}$ $\color{#ffc403}{accept}$ $\color{#ffc403}{random}$ $\color{#ffc403}{friend}$ $\color{#ffc403}{requests,}$ $\color{#ffc403}{unless}$ $\color{#ffc403}{we}$ $\color{#ffc403}{talked}$ $\color{#ffc403}{before.}$
+</p>
+
+<p align="center">
+  $\color{#ffc403}{If}$ $\color{#ffc403}{you're}$ $\color{#ffc403}{talking}$ $\color{#ffc403}{to}$ $\color{#ffc403}{me}$ $\color{#ffc403}{and}$ $\color{#ffc403}{then}$ $\color{#ffc403}{go}$ $\color{#ffc403}{talk}$ $\color{#ffc403}{to}$ $\color{#ffc403}{one}$ $\color{#ffc403}{of}$ $\color{#ffc403}{my}$ $\color{#ffc403}{ex}$ $\color{#ffc403}{friends}$ $\color{#ffc403}{in}$ $\color{#ffc403}{front}$ $\color{#ffc403}{of}$ $\color{#ffc403}{me}$ $\color{#ffc403}{then}$ $\color{#ffc403}{gen}$ $\color{#ffc403}{dni}$ $\color{#ffc403}{at}$ $\color{#ffc403}{all.}$
+</p>
+
+<p align="center">
+$\color{#ff8e1c}{↓ DNI ↓}$
 </p>
 
 <p align="center">
@@ -25,7 +64,7 @@ $\color{#ffc403}{DNI}$
 </p>
 
 <p align="center">
-  $\color{#ffc403}{IWVEC}$
+  $\color{#ff8e1c}{↓ IWVEC ↓}$
 </p>
 
 <p align="center">
@@ -33,11 +72,15 @@ $\color{#ffc403}{DNI}$
 </p>
 
 <p align="center">
-  $\color{#ffc403}{INT}$
+  $\color{#ff8e1c}{↓ INT ↓}$
 </p>
 
 <p align="center">
   $\color{#ffc403}{Friends,}$ $\color{#ffc403}{same}$ $\color{#ffc403}{fandoms}$ $\color{#ffc403}{as}$ $\color{#ffc403}{me,}$ $\color{#ffc403}{}$ $\color{#ffc403}{people}$ $\color{#ffc403}{who}$ $\color{#ffc403}{want}$ $\color{#ffc403}{to}$ $\color{#ffc403}{be}$ $\color{#ffc403}{friends}$ $\color{#ffc403}{with}$ $\color{#ffc403}{me!!}$
+</p>
+
+<p align="center">
+  $\color{#ff8e1c}{↓ LINKS ↓}$
 </p>
 
 <p align="center">
