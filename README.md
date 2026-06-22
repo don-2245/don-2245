@@ -29,7 +29,7 @@ $\color{#293347}{for}$ $\color{#293347}{pt..}$
   </p>
   
   <p align="center">
-    $\color{#ffc403}{I}$ $\color{#ffc403}{dislike}$ $\color{#ffc403}{being}$ $\color{#ffc403}{alone /}$ $\color{#ffc403}{left}$ $\color{#ffc403}{out.}$ $\color{#ffc403}{It}$ $\color{#ffc403}{makes}$ $\color{#ffc403}{me}$ $\color{#ffc403}{extremely}$ $\color{#ffc403}{disstressed}$ $\color{#ffc403}{and}$ $\color{#ffc403}{restless.}$
+    $\color{#ffc403}{I}$ $\color{#ffc403}{dislike}$ $\color{#ffc403}{being}$ $\color{#ffc403}{alone /}$ $\color{#ffc403}{left}$ $\color{#ffc403}{out.}$ $\color{#ffc403}{It}$ $\color{#ffc403}{makes}$ $\color{#ffc403}{me}$ $\color{#ffc403}{extremely}$ $\color{#ffc403}{distressed}$ $\color{#ffc403}{and}$ $\color{#ffc403}{restless.}$
   </p>
 
   <p align="center">
