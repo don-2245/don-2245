@@ -27,6 +27,10 @@ $\color{#293347}{for}$ $\color{#293347}{pt..}$
 <p align="center">
   $\color{#ffc403}{I'm}$ $\color{#ffc403}{very}$ $\color{#ffc403}{anxious}$ $\color{#ffc403}{and}$ $\color{#ffc403}{I}$ $\color{#ffc403}{overthink}$ $\color{#ffc403}{a lot}$ $\color{#ffc403}{(even}$ $\color{#ffc403}{if}$ $\color{#ffc403}{I}$ $\color{#ffc403}{don't}$ $\color{#ffc403}{show}$ $\color{#ffc403}{it}$ $\color{#ffc403}{that}$ $\color{#ffc403}{much),}$ $\color{#ffc403}{so}$ $\color{#ffc403}{please}$ $\color{#ffc403}{bear}$ $\color{#ffc403}{with}$ $\color{#ffc403}{me...}$ 
   </p>
+
+  <p align="center">
+    $\color{#ffc403}{I'm}$ $\color{#ffc403}{HORRIBLE}$ $\color{#ffc403}{with}$ $\color{#ffc403}{words,}$ $\color{#ffc403}{so}$ $\color{#ffc403}{I}$ $\color{#ffc403}{don't}$ $\color{#ffc403}{really}$ $\color{#ffc403}{know}$ $\color{#ffc403}{how}$ $\color{#ffc403}{to}$ $\color{#ffc403}{comfort}$ $\color{#ffc403}{people.}$
+  </p>
   
   <p align="center">
     $\color{#ffc403}{I}$ $\color{#ffc403}{dislike}$ $\color{#ffc403}{being}$ $\color{#ffc403}{alone /}$ $\color{#ffc403}{left}$ $\color{#ffc403}{out.}$ $\color{#ffc403}{It}$ $\color{#ffc403}{makes}$ $\color{#ffc403}{me}$ $\color{#ffc403}{extremely}$ $\color{#ffc403}{distressed}$ $\color{#ffc403}{and}$ $\color{#ffc403}{restless.}$
