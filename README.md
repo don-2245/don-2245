@@ -48,7 +48,7 @@ $\color{#ffc403}{I}$ $\color{#ffc403}{might}$ $\color{#ffc403}{unfriend /}$ $\co
 </p>
 
 <p align="center">
-  $\color{#ffc403}{You}$ $\color{#ffc403}{can}$ $\color{#ffc403}{ask}$ $\color{#ffc403}{for}$ $\color{#ffc403}{my}$ $\color{#ffc403}{discord.}$ $\color{#ffc403}{Idm!!}$
+  $\color{#ffc403}{You}$ $\color{#ffc403}{can}$ $\color{#ffc403}{ask}$ $\color{#ffc403}{for}$ $\color{#ffc403}{my}$ $\color{#ffc403}{discord.}$ $\color{#ffc403}{Idm!!}$ $\color{#ffc403}{It's}$ $\color{#ffc403}{on}$ $\color{#ffc403}{my}$ $\color{#ffc403}{guns}$ $\color{#ffc403}{page(?)}$ $\color{#ffc403}{too.}$ 
 </p>
 
 <p align="center">
