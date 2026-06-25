@@ -60,6 +60,10 @@ $\color{#ffc403}{I}$ $\color{#ffc403}{might}$ $\color{#ffc403}{unfriend /}$ $\co
 </p>
 
 <p align="center">
+$\color{#ffc403}{I}$ $\color{#ffc403}{gift}$ $\color{#ffc403}{stuff}$ $\color{#ffc403}{ONLY}$ $\color{#ffc403}{to}$ $\color{#ffc403}{people}$ $\color{#ffc403}{I}$ $\color{#ffc403}{REALLY}$ $\color{#ffc403}{trust.}$
+</p>
+
+<p align="center">
 $\color{#ff8e1c}{↓ DNI ↓}$
 </p>
 
