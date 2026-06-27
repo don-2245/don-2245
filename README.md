@@ -25,6 +25,10 @@ $\color{#293347}{for}$ $\color{#293347}{pt..}$
 </p>
 
 <p align="center">
+$\color{#ffc403}{MY}$ $\color{#ffc403}{INTERNET}$ $\color{#ffc403}{IS}$ $\color{#ffc403}{BAD,}$ $\color{#ffc403}{SO}$ $\color{#ffc403}{IF}$ $\color{#ffc403}{YOU'RE}$ $\color{#ffc403}{SITTING}$ $\color{#ffc403}{WITH}$ $\color{#ffc403}{ME}$ $\color{#ffc403}{AND}$ $\color{#ffc403}{I}$ $\color{#ffc403}{RANDOMLY}$ $\color{#ffc403}{DISCONNECT}$ $\color{#ffc403}{AND}$ $\color{#ffc403}{COME}$ $\color{#ffc403}{BACK}$ $\color{#ffc403}{THEN}$ $\color{#ffc403}{ITS}$ $\color{#ffc403}{MY}$ $\color{#ffc403}{INTERNET}$ $\color{#ffc403}{(or}$ $\color{#ffc403}{I}$ $\color{#ffc403}{was}$ $\color{#ffc403}{afk).}$
+</p>
+ 
+<p align="center">
   $\color{#ffc403}{I'm}$ $\color{#ffc403}{very}$ $\color{#ffc403}{anxious}$ $\color{#ffc403}{and}$ $\color{#ffc403}{I}$ $\color{#ffc403}{overthink}$ $\color{#ffc403}{a lot}$ $\color{#ffc403}{(even}$ $\color{#ffc403}{if}$ $\color{#ffc403}{I}$ $\color{#ffc403}{don't}$ $\color{#ffc403}{show}$ $\color{#ffc403}{it}$ $\color{#ffc403}{that}$ $\color{#ffc403}{much),}$ $\color{#ffc403}{so}$ $\color{#ffc403}{please}$ $\color{#ffc403}{bear}$ $\color{#ffc403}{with}$ $\color{#ffc403}{me...}$ 
   </p>
 
