@@ -13,6 +13,10 @@
   </p>
 
 <p align="center">
+  $\color{#ff0000}{WARNING,}$ $\color{#ff0000}{I'M}$ $\color{#ff0000}{ON}$ $\color{#ff0000}{THE}$ $\color{#ff0000}{EDGE}$ $\color{#ff0000}{ALL}$ $\color{#ff0000}{THE}$ $\color{#ff0000}{TIME}$ $\color{#ff0000}{AND}$ $\color{#ff0000}{TEND}$ $\color{#ff0000}{TO}$ $\color{#ff0000}{LASH}$ $\color{#ff0000}{OUT}$ $\color{#ff0000}{AT}$ $\color{#ff0000}{PEOPLE,}$ $\color{#ff0000}{PLS}$ $\color{#ff0000}{IWEC,}$ $\color{#ff0000}{I'M}$ $\color{#ff0000}{AT}$ $\color{#ff0000}{MY}$ $\color{#ff0000}{LAST}$ $\color{#ff0000}{STRAW}$ $\color{#ff0000}{EVEN}$ $\color{#ff0000}{IF}$ $\color{#ff0000}{I}$ $\color{#ff0000}{DON'T}$ $\color{#ff0000}{ACT}$ $\color{#ff0000}{LIKE}$ $\color{#ff0000}{IT.}$
+  </p>
+
+<p align="center">
 $\color{#ffc403}{Bmf!}$ $\color{#ffc403}{I'm}$ $\color{#ffc403}{super}$ $\color{#ffc403}{friendly}$ $\color{#ffc403}{once}$ $\color{#ffc403}{you}$ $\color{#ffc403}{get}$ $\color{#ffc403}{to}$ $\color{#ffc403}{know}$ $\color{#ffc403}{me!}$
 </p>
 
